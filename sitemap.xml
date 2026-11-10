@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.com/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/about.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/mission-vision.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/programs.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/course-modules.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/learning-implementation.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/opportunities.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/dropshipping.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/personal-branding.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/subscription.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/success-stories.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/contact.html</loc></url>
+  <url><loc>https://ponchobhujltd-com.github.io/</loc><lastmod>2026-11-11</lastmod><priority>1.0</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/about.html</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/mission-vision.html</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/programs.html</loc><lastmod>2026-11-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/business-support.html</loc><lastmod>2026-11-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/course-modules.html</loc><lastmod>2026-11-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/learning-implementation.html</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/opportunities.html</loc><lastmod>2026-11-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/dropshipping.html</loc><lastmod>2026-11-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/personal-branding.html</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/subscription.html</loc><lastmod>2026-11-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://ponchobhujltd-com.github.io/contact.html</loc><lastmod>2026-11-11</lastmod><priority>0.7</priority></url>
 </urlset>

@@ -6,7 +6,7 @@ Static, fast, mobile-responsive website. No login, registration, accounts or bac
 Double-click `index.html` to view in your browser.
 
 ## Folder structure
-- 12 pages: index, about, mission-vision, programs, course-modules, learning-implementation,
+- 13 pages: index, about, mission-vision, programs, business-support, course-modules, learning-implementation,
   opportunities, dropshipping, personal-branding, subscription, success-stories, contact (.html)
 - `assets/css/style.css` — all styles (brand colours at the top)
 - `assets/js/main.js` — mobile menu, animations, contact form (sends via WhatsApp/email)
@@ -14,7 +14,7 @@ Double-click `index.html` to view in your browser.
 - `sitemap.xml`, `robots.txt` — SEO
 
 ## Before going live
-1. Replace `YOUR-DOMAIN.com` in `sitemap.xml` and `robots.txt` with your real domain.
+1. Live URL: https://ponchobhujltd-com.github.io/ (canonical URLs, sitemap and robots.txt already use it). See `docs-seo/` for SEO reports and Search Console steps.
 2. Replace the sample cards in `success-stories.html` with real learner stories (with permission).
 3. Confirm instalment / refund wording in `subscription.html` (Payment terms table).
 
